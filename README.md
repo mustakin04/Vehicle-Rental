@@ -31,7 +31,7 @@ https://vehicle-rental-prh5.onrender.com
 
 ### 1. Clone the repo
 ```bash
-git clone your-repo-link
+https://github.com/mustakin04/Vehicle-Rental.git
 ```
 
 ### 2. Install dependencies
