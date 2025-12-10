@@ -81,7 +81,7 @@ Test APIs using Postman:
 ---
 
 ## 📎 GitHub Repo
-your-repo-link
+https://github.com/mustakin04/Vehicle-Rental.git
 
 ## 🌍 Live Deployment
 https://vehicle-rental-prh5.onrender.com
